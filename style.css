@@ -1,0 +1,25 @@
+body { 
+	background-color: #e7e7e7; 
+	color: fefefc
+	}
+ h1 {
+	 font-family: 'Montserrat', sans-serif;
+	}
+p {
+	font-family: 'Shadows Into Light', cursive;
+	}
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	}
+.table1 {
+	background-color: #070c16;
+	border-radius: 20px 20px 20px 20px;
+	height: 45%;
+	width: 35%;
+	}
+.table2 {
+	background-color: #747069;
+	border-radius: 20px 20px 20px 20px;
+	width: 35%;
+	height: auto;
+	}
